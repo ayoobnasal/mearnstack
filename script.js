@@ -1,4 +1,5 @@
-var company="luminar technolab";
-var loc_name="kakanad"
-console.log(company);
-console.log(loc_name);
+console.log("hello world");
+console.log("");
+var company =("ayoob nasal");
+var loc_name=("kaakanad")
+console.log("hai iam ayoobnasal p  _ name,age,years old")
